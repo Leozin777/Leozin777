@@ -26,10 +26,12 @@
   <a href ="mailto:leo.cardoso@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://t.me/leoboyz2001" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
+      
+  ##
+  
     
-<div>
-  Total de visitas no meu perfil
-  #
+  ### Total de visitas no meu perfil
+<div text-align = "center">
   <img alingn="center" src="https://profile-counter.glitch.me/EdoardoRocha/count.svg"/>
 </div>
   

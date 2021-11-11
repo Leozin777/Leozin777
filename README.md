@@ -28,6 +28,7 @@
 </div>
     
 <div>
+  Total de visitas no meu perfil
   <img alingn="center" src="https://profile-counter.glitch.me/EdoardoRocha/count.svg"/>
 </div>
   

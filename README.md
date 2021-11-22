@@ -11,10 +11,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://github.com/Leozin777/Atividades-JS" target="_blank"><img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://github.com/Leozin777/Noticias_cidades" target="_blank"><img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href="https://github.com/Leozin777/Noticias_cidades" target="_blank"><img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://github.com/Leozin777/PHP" target="_blank"><img align="center" alt="leo-php" height="50" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <a href="#" target="_blank"><img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="#" target="_blank"><img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="#" target="_blank"><img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="#" target="_blank"><img align="center" alt="leo-php" height="50" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <a href="#" target="_blank"><img align="center" alt="leo-php" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
   
   ##

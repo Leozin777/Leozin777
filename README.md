@@ -17,6 +17,7 @@
   <a href="#" target="_blank"><img align="center" alt="leo-php" height="50" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <a href="#" target="_blank"><img align="center" alt="leo-python" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <a href="#" target="_blank"><img align="center" alt="leo-java" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+       <a href="#" target="_blank"><img align="center" alt="leo-csharp" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
   
   ##

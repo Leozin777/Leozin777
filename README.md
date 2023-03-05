@@ -1,7 +1,7 @@
-### Olá! me chamo Leonardo 😊
-
-- 🌱 Estou cursando Análise e desenvolvimento de sistemas na ULBRA.
-- 😄 Pronomes: ele/dele
+### Olá! me chamo Leonardo :)
+- 💼 Trabalho como desenvolvedor web na Reitech
+- 📚 Estou cursando Análise e desenvolvimento de sistemas na ULBRA
+- 🤓 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Leozin777">

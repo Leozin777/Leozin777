@@ -1,6 +1,5 @@
 ### Olá! me chamo Leonardo 😊
 
-- 🔭 Estou procurando uma vaga de estágio.
 - 🌱 Estou cursando Análise e desenvolvimento de sistemas na ULBRA.
 - 😄 Pronomes: ele/dele
 

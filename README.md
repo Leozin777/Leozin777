@@ -10,8 +10,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="#" target="_blank"><img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href="#" target="_blank"><img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="#" target="_blank"><img align="center" alt="leo-Js" height="30" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <a href="#" target="_blank"><img align="center" alt="leo-java" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <a href="#" target="_blank"><img align="center" alt="leo-csharp" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">

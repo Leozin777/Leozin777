@@ -1,5 +1,5 @@
 ### Olá! me chamo Leonardo :)
-- 💼 Trabalho como desenvolvedor mobile com MAUI na <a href="https://github.com/reitechs">Reitech</a>
+- 💼 Trabalho como desenvolvedor mobile com MAUI na <a href="https://www.reitech.com.br/">Reitech</a>
 - 📚 Estou cursando Análise e desenvolvimento de sistemas na ULBRA
 - 🤓 Pronomes: ele/dele
 

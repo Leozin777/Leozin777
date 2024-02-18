@@ -1,7 +1,6 @@
 ### Olá! me chamo Leonardo :)
-- 💼 Trabalho como desenvolvedor mobile com MAUI na <a href="https://www.reitech.com.br/">Reitech</a>
-- 📚 Estou cursando Análise e desenvolvimento de sistemas na ULBRA
-- 🤓 Pronomes: ele/dele
+- 💼 I work as a mobile developer using MAUI at <a href="https://www.reitech.com.br/">Reitech</a>
+- 📚 I'm studying Systems Analysis and Development at ULBRA
 
 <div align="center">
   <a href="https://github.com/Leozin777">
@@ -32,7 +31,7 @@
   ##
   
     
-  ### Total de visitas no meu perfil
+  ### Total visits to my profile
 <div text-align = "center">
   <img alingn="center" src="https://profile-counter.glitch.me/EdoardoRocha/count.svg"/>
 </div>

@@ -1,5 +1,5 @@
 ### Olá! me chamo Leonardo :)
-- 💼 I work as a mobile developer using MAUI at <a href="https://www.reitech.com.br/">Reitech</a>
+- 💼 I work as a mobile developer using Flutter at <a href="https://www.reitech.com.br/">Reitech</a>
 - 📚 I'm studying Systems Analysis and Development at ULBRA
 
 <div align="center">
@@ -9,11 +9,10 @@
 </div>
 
 <div style="display: inline_block"><br>
+<a href="#" target="_blank"><img align="center" alt="leo-dart" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<a href="#" target="_blank"><img align="center" alt="leo-flutter" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<a href="#" target="_blank"><img align="center" alt="leo-dotnet" height="40" widht="20"src="https://hermes.digitalinnovation.one/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png">
 <a href="#" target="_blank"><img align="center" alt="leo-csharp" height="40" widht="20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<a href="#" target="_blank"><img align="center" alt="leo-blazor" height="40" widht="20"src="https://hermes.digitalinnovation.one/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png">
-<a href="#" target="_blank"><img align="center" alt="leo-dotnet" height="40" widht="20"src="https://cdn.worldvectorlogo.com/logos/blazor.svg">
-<a href="#" target="_blank"><img align="center" alt="leo-maui" height="40" widht="20"src="https://hermes.digitalinnovation.one/articles/cover/38edaf0f-382f-4dff-b3ae-43ac0b5ddbef.png">
-
         
 </div>
   

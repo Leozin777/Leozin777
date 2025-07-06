@@ -24,7 +24,7 @@
 ### 💼 Onde trabalho atualmente
 
 <p>
-  Desenvolvedor Mobile na <a href="https://www.reitech.com.br/" target="_blank"><strong>Reitech</strong></a>
+  Desenvolvedor Mobile na <a href="https://www.linkedin.com/company/reitech-tecnologia/" target="_blank"><strong>Reitech</strong></a>
 </p>
 
 ---

@@ -3,7 +3,7 @@
 <p align="center">
   💻 Desenvolvedor Mobile com foco em <strong>Flutter</strong><br/>
   🧠 Tenho experiência com <strong>.NET</strong> para o backend<br/>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>ULBRA</strong><br/>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas na <strong>ULBRA</strong><br/>
 </p>
 
 ---

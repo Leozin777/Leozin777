@@ -43,10 +43,3 @@
   </a>
 </p>
 
----
-
-### 📈 Total de visitas no perfil
-
-<p align="left">
-  <img src="https://profile-counter.glitch.me/EdoardoRocha/count.svg" />
-</p>

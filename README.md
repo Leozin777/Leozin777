@@ -1,22 +1,19 @@
 <h1 align="center">Olá! Me chamo Leonardo 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Mobile com foco em <strong>Flutter</strong><br/>
-  🧠 Tenho experiência com <strong>.NET</strong> para o backend<br/>
-  🎓 Formado em Análise e Desenvolvimento de Sistemas na <strong>ULBRA</strong><br/>
+  💻 Desenvolvedor Mobile com foco em <strong>.NET MAUI</strong><br/>
+  📱 Experiência em desenvolvimento mobile com <strong>Flutter</strong><br/>
+  🧠 Atuação em backend utilizando <strong>.NET</strong><br/>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas pela <strong>ULBRA</strong><br/>
 </p>
-
----
 
 ### 🚀 Tecnologias que uso
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 ---

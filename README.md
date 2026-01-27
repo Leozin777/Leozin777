@@ -35,8 +35,5 @@
   <a href="mailto:leo.cardoso@rede.ulbra.br">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.reddit.com/user/Leozin7777/" target="_blank">
-    <img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
 </p>
 

@@ -21,7 +21,7 @@
 ### 💼 Onde trabalho atualmente
 
 <p>
-  Desenvolvedor Mobile na <a href="https://www.linkedin.com/company/reitech-tecnologia/" target="_blank"><strong>Reitech</strong></a>
+  Desenvolvedor Mobile no <a href="https://www.linkedin.com/company/asaasbrasil/" target="_blank"><strong>ASAAS</strong></a>
 </p>
 
 ---

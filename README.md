@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Mobile com foco em <strong>.NET MAUI</strong><br/>
-  📱 Experiência em desenvolvimento mobile com <strong>Flutter</strong><br/>
+  📱 Experiência em desenvolvimento mobile com <strong>MAUI</strong><br/> e <strong>Flutter</strong><br/>
   🧠 Atuação em backend utilizando <strong>.NET</strong><br/>
   🎓 Formado em Análise e Desenvolvimento de Sistemas pela <strong>ULBRA</strong><br/>
 </p>
